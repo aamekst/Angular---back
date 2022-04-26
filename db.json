@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "novo titulo POST",
+      "author": "MIEKO",
+      "id": 2
+    },
+    {
+      "title": "nome",
+      "author": "Ana",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "title": "Escola",
+      "author": "elo",
+      "id": 1
+    },
+    {
+      "title": "Escola",
+      "author": "ryan",
+      "id": 2
+    },
+    {
+      "title": "Escola",
+      "author": "ensino medio",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "title": "EMPREGO",
+    "author": "alana",
+    "idade": 45
+  }
+}
